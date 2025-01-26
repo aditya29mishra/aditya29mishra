@@ -25,6 +25,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aditya29mishra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🐍 Snake Eating My Contributions
+![snake gif](https://github.com/aditya29mishra/aditya29mishra/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=aditya29mishra&icon=0&color=0)](https://visitcount.itsvg.in)
 
