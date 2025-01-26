@@ -87,6 +87,10 @@ I leverage my strong expertise in **Object-Oriented Programming (OOP)**, **3D Mo
 ## 🐍 Snake Eating My Contributions:
 ![snake gif](https://github.com/aditya29mishra/aditya29mishra/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://raw.githubusercontent.com/aditya29mishra/aditya29mishra/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 
 ## 🌐 Socials:
